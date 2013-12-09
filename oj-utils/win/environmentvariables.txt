@@ -1,0 +1,3 @@
+set path=%path%;C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\amd64;C:\Program Files (x86)\Notepad++;C:\Program Files (x86)\Git\bin
+set include=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include
+set lib=C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\lib\amd64;C:\Program Files (x86)\Windows Kits\8.0\Lib\win8\um\x64
