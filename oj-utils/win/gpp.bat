@@ -1,5 +1,4 @@
 @echo off
-cl main.cpp
-type in | main.exe > test.out
+call gtest
 echo ---------------------------------------
 fc test.out out
